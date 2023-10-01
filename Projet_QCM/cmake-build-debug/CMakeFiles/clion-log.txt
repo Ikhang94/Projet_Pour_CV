@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.2.2/bin/ninja/win/ninja.exe" -G Ninja C:\Users\caoth\CLionProjects\Projet_QCM
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.7.0 in C:/Users/caoth/CLionProjects/opencv/cmake-build-release/install/x64/mingw/lib
+-- You might need to add C:\Users\caoth\CLionProjects\opencv\cmake-build-release\install\x64\mingw\bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/caoth/CLionProjects/Projet_QCM/cmake-build-debug

@@ -1,0 +1,3 @@
+C:/Users/caoth/CLionProjects/codeShifumi/cmake-build-debug/CMakeFiles/codeShifumi.dir
+C:/Users/caoth/CLionProjects/codeShifumi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/caoth/CLionProjects/codeShifumi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

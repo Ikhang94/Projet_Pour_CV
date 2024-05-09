@@ -16,7 +16,7 @@ Enfin, le système de traitement d'image permettra d'analyser les cartons afin d
 qui seront envoyé à une base de donnée dans laquelle le serveur web et l'application mobile pourront faire les requêtes pour récupérer les réponses. 
 Les parties du système communiquent au sein d'un réseau local à l'aide d'une borne wifi.
 
-## Le Système de traiatement de l'image
+## Le Système de traitement de l'image
 
 Pour ma part, j'ai dû concevoir dans le système de traitement d'image : 
 
